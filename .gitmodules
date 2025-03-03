@@ -1,0 +1,6 @@
+[submodule "subrepos/FinalProyectFinland"]
+	path = subrepos/FinalProyectFinland
+	url = https://github.com/nataliagarcia2004/FinalProyectFinland.git
+[submodule "subrepos/task2"]
+	path = subrepos/task2
+	url = https://github.com/nataliagarcia2004/task2.git
